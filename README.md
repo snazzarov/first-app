@@ -1,2 +1,3 @@
 # first-app
-Using react-select app
+Using react-select app.
+It's for bnf4sql.
