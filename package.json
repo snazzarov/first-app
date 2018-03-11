@@ -1,0 +1,24 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "First App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snazzarov/first-app.git"
+  },
+  "keywords": [
+    "react",
+    "select",
+    "live-search"
+  ],
+  "author": "SNazarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snazzarov/first-app/issues"
+  },
+  "homepage": "https://github.com/snazzarov/first-app#readme"
+}
